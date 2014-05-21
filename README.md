@@ -1,5 +1,6 @@
 DLA
 ===
+![alt tag](http://www.henrydavidlouth.com/wp-content/uploads/2014/03/2165-copy-WEB-slider.png)
 
 Diffuse Limited Aggregation - Bounded, Emitter, Rotation
 
