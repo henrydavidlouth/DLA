@@ -1,7 +1,7 @@
 DLA
 ===
 
-Diffuse Limited Aggregation Studies
+Diffuse Limited Aggregation - Bounded, Emitter, Rotation
 
 Overview:
 Particulate Aggregation Studies v1
